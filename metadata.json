@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Kelulusan SMA",
+  "description": "Aplikasi pengecekan kelulusan siswa SMA modern berbasis React dan Supabase.",
+  "requestFramePermissions": []
+}
